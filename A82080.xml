@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from His Excellency Sir Thomas Fairfax, and the Generall Councell of the Armie, of their resolutions to adhere to the Paliament, in their proceedings concerning the King. Presented to the Honourable House of Commons, by Col. Sir Hardres Waller, Col. Whaley, Col. Baxter, and Col. Okey, January 11. 1647. Together with the Parliaments answer thereunto. And ordered to be forthwith printed and published. Hen. Elsyng Cler. Parl. D. Com. By the appointment of his Excellency Sir Thomas Fairfax, and the Generall Councell of the Army. John Rushworth Secr.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82080</idno>
+            <idno type="STC">Wing D582</idno>
+            <idno type="STC">Thomason E422_22</idno>
+            <idno type="STC">ESTC R204809</idno>
+            <idno type="EEBO-CITATION">99864271</idno>
+            <idno type="PROQUEST">99864271</idno>
+            <idno type="VID">161392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82080)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161392)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from His Excellency Sir Thomas Fairfax, and the Generall Councell of the Armie, of their resolutions to adhere to the Paliament, in their proceedings concerning the King. Presented to the Honourable House of Commons, by Col. Sir Hardres Waller, Col. Whaley, Col. Baxter, and Col. Okey, January 11. 1647. Together with the Parliaments answer thereunto. And ordered to be forthwith printed and published. Hen. Elsyng Cler. Parl. D. Com. By the appointment of his Excellency Sir Thomas Fairfax, and the Generall Councell of the Army. John Rushworth Secr.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington, and are to be sold at his Shop at the Blue Anchor in Cornhill; near the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 12 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161392:1" rendition="simple:additions"/>
+            <p>A DECLARATION From his Excellency Sir Thomas Fairfax, And the Generall Councell of the ARMIE, Of their Reſolutions to adhere to the PARLIAMENT, in their Proceedings concerning the KING. <hi>Preſented to the Honourable Houſe of Commons, by Col. Sir</hi> Hardres Waller, <hi>Col.</hi> Whaley, <hi>Col.</hi> Baxter, <hi>and Col.</hi> Okey, January 11. 1647. Together with the Parliaments Anſwer thereun<g ref="char:EOLhyphen"/>to.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>And <hi>Ordered to be forthwith printed and publiſhed.</hi>
+                     </p>
+                     <closer>
+                        <signed>Hen. Elſyng Cler. Parl. D. Com.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>BY the Appointment of his Excellency Sir <hi>Thomas Fairfax,</hi> and the Gene<g ref="char:EOLhyphen"/>rall Councell of the Army.</p>
+                     <closer>
+                        <signed>
+                           <hi>JOHN RUSHWORTH</hi> Secr.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON. <hi>Printed for</hi> George Whittington, <hi>and are to be ſold at his Shop at the</hi> Blue Anchor <hi>in</hi> Cornhill; <hi>near the</hi> Royall Exchange.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:161392:2"/>
+            <pb n="1" facs="tcp:161392:2"/>
+            <head>A DECLARATION From his Excellency; Sir THOMAS FAIRFAX, And the Generall Councell of the ARMY, &amp;c.</head>
+            <p>NOtwithſtanding the high violations of the King<g ref="char:EOLhyphen"/>doms Rights and Liberties, and the indeavours to ſwallow up the whole intereſt of the Kingdom in<g ref="char:EOLhyphen"/>to the power and will of a King, which the pre<g ref="char:EOLhyphen"/>ſent Kings Reigne hath afforded; we have obſerved, That the Parliament was (through his neceſſities,) and againſt his declared intentions to the contrary, called and put into a condition of vindicating the Kingdom in thoſe things, hath yet and acted with that tenderneſſe towards the King, (as to any thing of right that might be in him, or duty towards him) as that in the Proteſtation, Covenant, and many Declarations publiſhed by them; They have
+<pb n="2" facs="tcp:161392:3"/>held forth a carefull regard to the preſerva<g ref="char:EOLhyphen"/>tion of the Kings Perſon, and juſt Rights with, and in the preſervation and vindicati<g ref="char:EOLhyphen"/>on of the publike intereſts and ſafety of the Kingdom. And by the whole ſeries of their actions, and their manifold humble addreſ<g ref="char:EOLhyphen"/>ſes to him, for the preſervation and ſettle<g ref="char:EOLhyphen"/>ment of all, They have, we conceive, abun<g ref="char:EOLhyphen"/>dantly demonſtrated the realty and inno<g ref="char:EOLhyphen"/>cency of their intentions towards him: In all which; we have ſtil underſtood, the ſence and intention to be no other then that the preſervation of the Kings Perſon, and perti<g ref="char:EOLhyphen"/>cular Rights, ſhould be ſo indeavoured as it might be conſiſtent with, &amp; not diſtructive to thoſe great &amp; more obliging publike in<g ref="char:EOLhyphen"/>tereſts of Religion, and the rights, liberties, and ſafety of the Kingdom, and not other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p>And accordingly, in the late Declarati<g ref="char:EOLhyphen"/>ons and papers that have occaſionally paſt from this Army, as to our deſires of ſettle<g ref="char:EOLhyphen"/>ment to the Kingdom, we have expreſt our reall wiſhes, that if the King would in things neceſſary, and eſſentiall to the clearing, ſet<g ref="char:EOLhyphen"/>ling,
+<pb facs="tcp:161392:3"/>and ſecuring of thoſe publike intereſts, give his concurence to put them paſt future diſputes, then his rights ſhould be conſider<g ref="char:EOLhyphen"/>ed, and ſetled, ſo far as might be conſiſtent with thoſe ſuperiour intereſts of the pub<g ref="char:EOLhyphen"/>like, and the ſecurity thereof for future.</p>
+            <p>And that by an addreſſe to the King upon things ſo purely eſſentiall to thoſe publike ends it might once more come to a cleare Tryall; whether we could with the preſer<g ref="char:EOLhyphen"/>vation of the Kings Perſon, and perticuler intereſts have a ſecurity to the other, hath been our earneſt deſire, our great expecta<g ref="char:EOLhyphen"/>tion, and our indeavour that we and others might be kept in a patient wayting for ſuch an iſſue.</p>
+            <p>Now in the Parliaments laſt addreſſe to the King, we find they have inſiſted onely upon ſome few things ſo eſſentiall to that intereſt of the Kingdom, which they have hitherto engaged for, as that without be<g ref="char:EOLhyphen"/>traying the ſafety of the Kingdome and themſelves, and all that had engaged with them in that Cauſe; without denying that which God in the iſſue of the Warre hath borne ſuch
+<pb n="4" facs="tcp:161392:4"/>Teſtimony unto; they could not go lower, and (thoſe things granted,) they have offer<g ref="char:EOLhyphen"/>ed to treate for all the reſt.</p>
+            <p>Thus we account, That great buſineſſe of a ſettlement to the Kingdom, and ſecu<g ref="char:EOLhyphen"/>rity to the publike intereſt thereof, by and with the Kings Concurrence, to be brought to ſo cleare a Tryall as that (upon the Kings denyall of thoſe things) we can ſee no fur<g ref="char:EOLhyphen"/>ther hopes of ſettlement or ſecurity that way. And therefore underſtanding, that up<g ref="char:EOLhyphen"/>on the conſideration of that denyall, added to ſo many other. The Honourable Houſe of Commons, by ſeverall votes on Munday laſt, have reſolved not to make any further addreſſe or application to the King, nor re<g ref="char:EOLhyphen"/>ceive any from him, nor to ſuffer either in others. We do freely and unanimouſly de<g ref="char:EOLhyphen"/>clare, for our ſelves and the ARMIE; that we are reſolved through the Grace of God, firmly to adhere with, &amp; ſtand by the Par<g ref="char:EOLhyphen"/>liament in the things voted on Munday laſt concerning the King, and in what ſhall be further neceſſary for proſecution thereof,
+<pb n="5" facs="tcp:161392:4"/>and for the ſetling and ſecuring of the Par<g ref="char:EOLhyphen"/>liament and Kingdom, without the King &amp; againſt him, or any other that ſhall here<g ref="char:EOLhyphen"/>after pertake with him.</p>
+            <closer>
+               <dateline>
+                  <hi>Windſor</hi> 
+                  <date>
+                     <hi>Ian.</hi> 9. 1647.</date>
+               </dateline>
+               <signed>
+                  <hi>By the Appointment of his Excel<g ref="char:EOLhyphen"/>lency Sir Thomas Fairfax, and the Generall Councell of the Army.</hi> Iohn Ruſhworth <hi>Secr.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
